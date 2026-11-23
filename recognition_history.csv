@@ -1,0 +1,63 @@
+Date and Time,Recognition Type,Recognized Result,Details
+12-11-2026 09:36:36 PM,Alphabet,L,
+12-11-2026 09:36:39 PM,Word,L,
+12-11-2026 09:37:25 PM,Greeting,BYE,Confidence: 75.3%
+12-11-2026 09:43:15 PM,Greeting,BYE,Confidence: 73.0%
+12-11-2026 10:38:52 PM,Alphabet,L,
+12-11-2026 10:38:54 PM,Word,L,
+12-11-2026 10:45:30 PM,Alphabet,L,
+12-11-2026 10:45:31 PM,Word,L,
+12-11-2026 10:55:06 PM,Alphabet,L,
+12-11-2026 10:56:06 PM,Alphabet,O,
+12-11-2026 10:56:34 PM,Alphabet,V,
+12-11-2026 11:02:08 PM,Greeting,GOOD_AFTERNOON,Confidence: 58.3%
+12-11-2026 11:02:21 PM,Greeting,GOOD_NIGHT,Confidence: 72.7%
+12-11-2026 11:02:54 PM,Greeting,BYE,Confidence: 56.7%
+12-11-2026 11:03:00 PM,Greeting,GOOD_AFTERNOON,Confidence: 59.3%
+12-11-2026 11:03:41 PM,Greeting,GOOD_MORNING,Confidence: 53.0%
+12-11-2026 11:04:14 PM,Greeting,GOOD_NIGHT,Confidence: 76.3%
+12-11-2026 11:04:40 PM,Greeting,BYE,Confidence: 57.7%
+12-11-2026 11:04:53 PM,Greeting,BYE,Confidence: 57.7%
+14-11-2026 04:53:28 PM,Greeting,GOOD_AFTERNOON,Confidence: 54.7%
+14-11-2026 04:53:41 PM,Greeting,GOOD_AFTERNOON,Confidence: 62.7%
+14-11-2026 04:54:22 PM,Greeting,HELLO,Confidence: 55.0%
+14-11-2026 04:54:42 PM,Greeting,GOOD_AFTERNOON,Confidence: 56.7%
+17-11-2026 02:27:13 PM,Alphabet,L,
+17-11-2026 02:27:37 PM,Alphabet,V,
+17-11-2026 02:28:28 PM,Greeting,GOOD_NIGHT,Confidence: 77.3%
+17-11-2026 02:29:13 PM,Greeting,HELLO,Confidence: 53.3%
+17-11-2026 02:29:26 PM,Greeting,GOOD_AFTERNOON,Confidence: 67.7%
+17-11-2026 02:29:33 PM,Greeting,GOOD_AFTERNOON,Confidence: 74.3%
+17-11-2026 02:29:59 PM,Greeting,GOOD_NIGHT,Confidence: 59.3%
+17-11-2026 02:30:19 PM,Greeting,HELLO,Confidence: 51.0%
+17-11-2026 02:30:25 PM,Greeting,HELLO,Confidence: 63.3%
+17-11-2026 02:30:59 PM,Greeting,GOOD_AFTERNOON,Confidence: 61.0%
+17-11-2026 02:31:12 PM,Greeting,GOOD_NIGHT,Confidence: 70.0%
+17-11-2026 02:31:18 PM,Greeting,GOOD_NIGHT,Confidence: 73.7%
+17-11-2026 02:31:25 PM,Greeting,GOOD_NIGHT,Confidence: 67.7%
+17-11-2026 02:31:31 PM,Greeting,GOOD_NIGHT,Confidence: 75.0%
+17-11-2026 02:31:38 PM,Greeting,GOOD_AFTERNOON,Confidence: 54.7%
+22-11-2026 05:39:30 PM,Greeting,BYE,Confidence: 66.3%
+22-11-2026 05:39:43 PM,Greeting,GOOD_NIGHT,Confidence: 62.7%
+22-11-2026 05:40:30 PM,Greeting,HELLO,Confidence: 50.7%
+22-11-2026 05:41:49 PM,Greeting,GOOD_AFTERNOON,Confidence: 69.0%
+22-11-2026 07:04:09 PM,Alphabet,A,
+22-11-2026 07:05:30 PM,Alphabet,B,
+22-11-2026 07:05:47 PM,Alphabet,C,
+22-11-2026 07:06:33 PM,Greeting,BYE,Confidence: 56.3%
+22-11-2026 07:07:00 PM,Greeting,GOOD_AFTERNOON,Confidence: 52.0%
+22-11-2026 07:07:07 PM,Greeting,BYE,Confidence: 50.3%
+22-11-2026 07:07:14 PM,Greeting,GOOD_AFTERNOON,Confidence: 75.7%
+22-11-2026 07:07:21 PM,Greeting,GOOD_AFTERNOON,Confidence: 57.0%
+22-11-2026 07:07:28 PM,Greeting,GOOD_AFTERNOON,Confidence: 63.0%
+22-11-2026 07:07:35 PM,Greeting,GOOD_NIGHT,Confidence: 59.3%
+22-11-2026 07:07:42 PM,Greeting,GOOD_NIGHT,Confidence: 60.0%
+22-11-2026 07:08:16 PM,Greeting,GOOD_AFTERNOON,Confidence: 64.7%
+22-11-2026 07:08:36 PM,Greeting,BYE,Confidence: 62.3%
+22-11-2026 07:09:04 PM,Greeting,HELLO,Confidence: 70.7%
+22-11-2026 09:31:30 PM,Greeting,BYE,Confidence: 54.7%
+22-11-2026 09:31:37 PM,Greeting,GOOD_AFTERNOON,Confidence: 58.0%
+22-11-2026 11:47:31 PM,Greeting,BYE,Confidence: 68.0%
+22-11-2026 11:47:38 PM,Greeting,GOOD_AFTERNOON,Confidence: 84.3%
+22-11-2026 11:48:05 PM,Greeting,GOOD_NIGHT,Confidence: 50.3%
+22-11-2026 11:48:11 PM,Greeting,GOOD_AFTERNOON,Confidence: 56.7%
